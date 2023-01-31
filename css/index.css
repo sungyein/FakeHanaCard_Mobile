@@ -33,7 +33,7 @@ hr {width: 90%;margin: 1.875rem auto;border-bottom: 1px solid #0282b0;}
 #cont1 h2, #cont2 h2 {font-size: 1.875rem; font-weight: 500;}
 .cont1-wrap {width: 100%; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(2, 1fr); gap: .25rem;}
 .cont1-wrap div {width: 100%; height: 6rem;border: 1px solid rgb(204, 204, 204); border-radius: .3125rem;}
-.cont1-wrap div a {display: block; font-size: 1.4rem; line-height: 60px; position: relative; padding: 0.04rem 2.6rem;}
+.cont1-wrap div a {display: block; font-size: 1.4rem; line-height: 6.2rem; position: relative; padding: 0 0 0 2.8rem;}
 .cont1-wrap div a.quick-icon01{background: url(../img/quick_menu_01.png) no-repeat center left/ 2.3rem auto; margin-left: 1rem;}
 .cont1-wrap div a.quick-icon02{background: url(../img/quick_menu_02.png) no-repeat center left/ 2.3rem auto; margin-left: 1rem;}
 .cont1-wrap div a.quick-icon03{background: url(../img/quick_menu_03.png) no-repeat center left/ 2.3rem auto; margin-left: 1rem;}
